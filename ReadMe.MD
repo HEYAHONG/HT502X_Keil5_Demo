@@ -7,7 +7,7 @@
 这是一个在Keil5下编译HT502X程序的编程Demo。
 
 - 程序开发方式为寄存器编程，即直接访问寄存器。寄存器需要根据数据手册自行定义。
-- 数据手册请访问[doc](https://gitee.com/HEYAHONG/RN8211B_Keil5_Template/blob/master/doc)目录。
+- 数据手册请访问[doc](Doc)目录。
 
 # 要求
 
